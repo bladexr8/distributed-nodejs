@@ -107,3 +107,5 @@ dist
 *.key
 *.cert
 
+.DS_Store
+
