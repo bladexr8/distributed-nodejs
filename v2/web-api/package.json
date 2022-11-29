@@ -12,6 +12,7 @@
   "dependencies": {
     "fastify": "3.2",
     "middie": "5.1",
-    "node-fetch": "2.6"
+    "node-fetch": "2.6",
+    "statsd-client": "^0.4.4"
   }
 }
