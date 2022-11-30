@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fastify": "3.2",
-    "fastify-gql": "5.3"
+    "fastify-gql": "5.3",
+    "zipkin-lite": "^0.1.1"
   }
 }
